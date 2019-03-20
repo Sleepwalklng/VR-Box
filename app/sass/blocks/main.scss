@@ -1,0 +1,39 @@
+.main {
+  background: #000000 url(../img/main/main-bg.jpg) center center no-repeat;
+  background-size: cover;
+  height: 70rem;
+}
+.main_header {
+  color: white;
+  font-size: 3.9rem;
+  font-family: 'HelveticaNeueCyr_Bold', sans-serif;
+  font-weight: bold;
+  font-weight: 700;
+  text-align: left;
+  text-shadow: 1px 3px 0px #272b25;
+  margin-top: 11rem;
+}
+.main_action {
+  color: white;
+  font-weight: 700;
+  font-size: 3rem;
+  font-family: 'HelveticaNeueCyr_Bold', sans-serif;
+  font-weight: bold;
+}
+.main_btn {
+  display: block;
+  margin-top: 2rem;
+  margin-left: 0;
+  width: 50%;
+}
+.main_btn:hover {
+  text-decoration: none;
+}
+.main_glasses-img {
+  margin-top: 5rem;
+  margin-left: -3rem;
+}
+.main_dino-img {
+  margin-top: 21rem;
+  margin-left: -11rem;
+}
