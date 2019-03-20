@@ -1,0 +1,62 @@
+.what {
+  position: relative;
+  background-color: #f8f8f0;
+}
+.what_header {
+  font-family: 'HelveticaNeueCyr_Black', sans-serif;
+  font-size: 3.5rem;
+  font-weight: 900;
+  margin-top: 10rem;
+  margin-bottom: 4rem;
+}
+.what_description {
+  font-family: 'HelveticaNeueCyr_Roman', sans-serif;
+  line-height: 1.2;
+  font-size: 1.7rem;
+  margin-bottom: 3rem;
+}
+.what_list {
+  list-style: none;
+  margin-left: -4rem;
+  font-family: 'HelveticaNeueCyr_Roman', sans-serif;
+  font-size: 1.7rem;
+  line-height: 1;
+  min-height: 14rem;
+}
+.what_price {
+  font-family: 'HelveticaNeueCyr_Medium', sans-serif;
+  font-size: 1.9rem;
+  font-weight: 700;
+  margin-bottom: 3rem;
+  margin-top: -4rem;
+}
+.what_price_red {
+  color: #b61919;
+}
+.what_btn {
+  border-bottom: solid 3px #76ae0c;
+  font-size: 1.8rem;
+  padding: 2rem 2rem;
+  margin-bottom: 7.4rem;
+  margin-left: 1.6rem;
+}
+.what_set-img {
+  height: 34rem;
+  margin-top: 11rem;
+  margin-left: -5rem;
+}
+.what_panel {
+  font-size: 1.7rem;
+  margin-left: 28rem;
+  text-align: center;
+}
+.border-img {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.row_choice {
+  display: block;
+  margin: 0 auto;
+  width: 90%;
+}
