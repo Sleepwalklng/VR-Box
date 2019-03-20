@@ -1,0 +1,39 @@
+.game {
+  background-color: #fcfcf6;
+}
+.game_header {
+  margin-top: 8rem;
+}
+.game_icon {
+  margin-left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  margin-bottom: 3rem;
+}
+.game_gadjets {
+  text-align: left;
+}
+.game_img {
+  margin-left: -30%;
+}
+.game_zombie {
+  margin-top: 2.8rem;
+}
+.game_name {
+  margin-top: 3rem;
+}
+.game_text {
+  font-size: 1.5rem;
+  font-family: 'HelveticaNeueCyr_Roman', sans-serif;
+}
+.game_btn {
+  margin-left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  margin-top: 3rem;
+  margin-bottom: 7rem;
+  width: 30%;
+}
+.name_zombie {
+  margin-top: 1.5rem;
+}
