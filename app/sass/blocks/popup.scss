@@ -1,0 +1,115 @@
+.popup_call,
+.popup_glasses,
+.popup_question,
+.popup_equipment {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.popup_call-content,
+.popup_glasses-content,
+.popup_question-content,
+.popup_equipment-content {
+  position: fixed;
+  left: 50%;
+  top: 18%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+.popup_call-close,
+.popup_glasses-close,
+.popup_question-close,
+.popup_equipment-close {
+  margin-top: -0.5rem;
+  border: none;
+  color: #21a3af;
+  background-color: transparent;
+  font-size: 3rem;
+  font-weight: 900;
+}
+.popup_call-close:active,
+.popup_glasses-close:active,
+.popup_question-close:active,
+.popup_equipment-close:active {
+  outline: none;
+}
+.popup_call .border_close-btn,
+.popup_glasses .border_close-btn,
+.popup_question .border_close-btn,
+.popup_equipment .border_close-btn {
+  position: absolute;
+  top: 1rem;
+  right: -1rem;
+  border: 3px solid #21a3af;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  background-color: #000;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.popup_video {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.popup_video-content {
+  position: fixed;
+  left: 50%;
+  top: 18%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+.popup_video-close {
+  position: absolute;
+  top: -1.3rem;
+  left: 0.3rem;
+  border: none;
+  text-align: center;
+  color: #21a3af;
+  background-color: transparent;
+  font-size: 3rem;
+  font-weight: 900;
+  padding: 0;
+}
+.popup_video-close:active {
+  outline: none;
+}
+.popup_video .border_close-btn {
+  position: absolute;
+  top: 1rem;
+  right: -1rem;
+  border: 3px solid #21a3af;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  background-color: #000;
+}
+.popup-btn:hover,
+.popup-btn:visited,
+.popup-btn:focus,
+.popup-btn:active {
+  text-decoration: none;
+  outline: none;
+}
