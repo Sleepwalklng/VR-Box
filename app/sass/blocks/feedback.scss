@@ -1,0 +1,96 @@
+.feedback {
+  background-color: #f8f8f0;
+  position: relative;
+  padding-bottom: 9rem;
+}
+.feedback_header {
+  margin-top: 9rem;
+}
+.feedback_wrap {
+  background-color: #fff;
+  border: solid #3eb7b7 2px;
+  border-radius: 2px;
+  padding: 3rem 2.7rem 5rem 2.7rem;
+  margin-bottom: 0.5rem;
+}
+.feedback_user-name {
+  font-family: 'HelveticaNeueCyr_Medium', sans-serif;
+  font-size: 1.6rem;
+}
+.feedback_body {
+  padding-top: 4rem;
+  padding-left: 1.5rem;
+}
+.feedback_user-text {
+  font-size: 1.6rem;
+  font-family: 'HelveticaNeueCyr_Roman', sans-serif;
+  margin-top: 2rem;
+}
+#one,
+#three {
+  padding-right: 0.25rem;
+}
+#two,
+#four {
+  padding-left: 0.25rem;
+}
+.ruby-5 {
+  position: absolute;
+  right: -2rem;
+  top: 110rem;
+}
+.bottom-border {
+  background: url(../img/what/boeder.png) repeat;
+  width: 100%;
+  height: 6px;
+  position: absolute;
+  bottom: 0;
+  margin: 0;
+}
+.top-border {
+  background: url(../img/what/boeder.png) repeat;
+  width: 100%;
+  height: 6px;
+  position: absolute;
+  top: 0;
+  margin: 0;
+}
+.about {
+  background-color: #f8f8f0;
+  padding-top: 13rem;
+  padding-bottom: 6rem;
+  position: relative;
+}
+.about_img-one {
+  padding-top: 2rem;
+}
+.about_img-two {
+  padding-top: 1rem;
+}
+.about_text {
+  margin-top: 0;
+}
+
+.order-two {
+  background: url(../img/order-two/bg-order-two.png) center center no-repeat;
+  background-size: cover;
+}
+.order-two_second-row {
+  margin-top: -5rem;
+}
+
+.question {
+  padding-top: 4rem;
+  padding-bottom: 5rem;
+  text-align: center;
+}
+.question_link {
+  color: #000;
+  border-bottom: 1px dashed #000;
+  font-family: 'HelveticaNeueCyr_Medium', sans-serif;
+  font-size: 1.7rem;
+}
+.question_link:hover {
+  text-decoration: none;
+  color: #696969;
+}
