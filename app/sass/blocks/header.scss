@@ -1,0 +1,49 @@
+.header {
+  background-color: rgba(0, 0, 0, 0.62);
+  color: white;
+  height: 8.5rem;
+}
+.logo {
+  margin-right: 1rem;
+  margin-top: -3.6rem;
+}
+.header_text {
+  display: inline-block;
+  font-family: 'HelveticaNeueCyr_Medium', sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+  text-align: left;
+  line-height: 2.5rem;
+  margin-top: 2rem;
+}
+.header_phone {
+  font-family: 'HelveticaNeueCyr_Bold', sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 0;
+  margin-top: 1rem;
+}
+.header_link {
+  color: #94ca2d;
+  font-size: 2rem;
+  text-align: center;
+  margin-top: -1rem;
+  margin-left: 5.5rem;
+}
+.header_link:hover {
+  text-decoration: none;
+  color: #6d981b;
+}
+.header_link:active {
+  outline: none;
+  text-decoration: none;
+}
+.header_link:focus {
+  text-decoration: none;
+  outline: none;
+}
+.header_link:visited {
+  text-decoration: none;
+  outline: none;
+}
