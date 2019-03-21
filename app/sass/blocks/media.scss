@@ -1,0 +1,631 @@
+@media (max-width: 3000px) {
+  .feedback {
+    overflow: hidden;
+  }
+}
+/* 1200px */
+@media (max-width: 1200px) {
+  .main_header {
+    margin-top: 6rem;
+  }
+  .main_dino-img {
+    margin-left: -17rem;
+  }
+  .what_set-img {
+    height: 25rem;
+  }
+  .what_panel {
+    margin-left: 3rem;
+  }
+  .what_list {
+    min-height: 17rem;
+  }
+  .order_form_position {
+    margin-left: 0;
+  }
+  .sky {
+    margin-left: -3rem;
+  }
+  .compatibility_glasses {
+    width: 30rem;
+  }
+  .opportunities,
+  .feedback {
+    overflow: hidden;
+  }
+  .footer_link {
+    display: block;
+    margin: 0 auto;
+  }
+  .header_link {
+    display: block;
+    margin: 0 auto;
+  }
+}
+@media screen and (min-width: 991px) {
+  .mobile-visible {
+    display: none;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 991px) {
+  .big-visible {
+    display: none;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 990px) {
+  .what_btn {
+    display: block;
+    margin: 0 auto 6rem;
+  }
+  .what_set-img {
+    display: block;
+    margin: 0 auto;
+    height: 24rem;
+  }
+}
+/* 991px */
+@media (max-width: 991px) {
+  .header_text {
+    font-size: 2.5rem;
+    line-height: 1;
+  }
+  .header {
+    height: 14rem;
+  }
+  .header_phone {
+    display: inline-block;
+    margin-left: 12rem;
+    font-size: 2rem;
+  }
+  .header_link,
+  .header_phone {
+    display: inline-block;
+    margin: 1rem 7rem 0;
+  }
+  .main_header {
+    font-size: 3.5rem;
+  }
+  .main_btn {
+    margin: 4rem auto;
+  }
+  .main_glasses-img {
+    height: 15rem;
+    margin-top: 1rem;
+  }
+  .main_dino-img {
+    margin-top: -19rem;
+    margin-left: 37rem;
+    height: 25rem;
+  }
+  .what_panel {
+    margin-bottom: 5rem;
+  }
+  .what_btn {
+    display: block;
+    margin: 0 auto 6rem;
+  }
+  .tony {
+    display: block;
+    margin: 0 auto;
+    margin-top: 3rem;
+  }
+  .film-media {
+    display: block;
+    margin: -20rem auto 3rem;
+  }
+  .car {
+    display: block;
+    margin: 0 auto;
+  }
+  .world-media {
+    margin-bottom: 3rem;
+  }
+  .compatibility_header {
+    margin-bottom: 6rem;
+    text-align-last: center;
+  }
+  .compatibility_glasses {
+    display: block;
+    margin: 3rem auto;
+  }
+  .order_second-row {
+    margin-bottom: 3rem;
+  }
+  .order_form_position {
+    margin-left: 0;
+  }
+  .game_img {
+    display: block;
+    margin-left: 50%;
+    -webkit-transform: translateX(-60%);
+            transform: translateX(-60%);
+  }
+  .platform_img {
+    display: block;
+    margin: 0 auto;
+  }
+  .compatibility_glasses_text {
+    margin-bottom: 3rem;
+  }
+  #one,
+  #three {
+    padding-right: 1.5rem;
+  }
+  #two,
+  #four {
+    padding-left: 1.5rem;
+  }
+  .about {
+    padding-top: 4rem;
+  }
+  .footer-logo {
+    height: 6rem;
+    margin-top: 1rem;
+  }
+  .footer_link,
+  .footer_phone {
+    text-align: center;
+    display: block;
+  }
+  footer {
+    height: 19rem;
+  }
+  .header_text {
+    line-height: 1.2;
+  }
+}
+/* 767px */
+@media (max-width: 767px) {
+  .main {
+    overflow: hidden;
+  }
+  .logo {
+    margin-left: 0;
+  }
+  .header_text {
+    font-size: 2rem;
+  }
+  .header_link,
+  .header_phone {
+    display: inline-block;
+    margin: 1rem 2rem 0;
+  }
+  .main_header,
+  .main_action {
+    font-size: 2.2rem;
+  }
+  .main_glasses-img {
+    padding-left: 2rem;
+  }
+  .main_btn {
+    margin: 4rem 0;
+  }
+  .what_btn {
+    display: block;
+    margin: 0 auto;
+    margin-left: 5%;
+    margin-bottom: 4rem;
+  }
+  .what_set-img {
+    display: block;
+    margin: 0 auto;
+    height: 24rem;
+  }
+  .tony {
+    display: block;
+    margin: 3rem auto;
+    width: 30rem;
+  }
+  .opportunities {
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+  .car {
+    display: block;
+    margin: 0 auto;
+  }
+  .world-media {
+    margin-bottom: 4rem;
+  }
+  .order_form_position {
+    margin-left: 0;
+  }
+  .compatibility_glasses {
+    width: 30rem;
+  }
+  .compatibility_header {
+    text-align-last: center;
+  }
+  .compatibility_glasses_text {
+    margin-bottom: 4rem;
+  }
+  .platform_img {
+    display: block;
+    margin: 0 auto;
+  }
+  .game_img {
+    display: block;
+    margin-left: 50%;
+    -webkit-transform: translateX(-60%);
+            transform: translateX(-60%);
+  }
+  #one,
+  #three {
+    padding-right: 1.5rem;
+  }
+  #two,
+  #four {
+    padding-left: 1.5rem;
+  }
+  .media-wrap_movie {
+    margin-top: 3rem;
+  }
+  .film-media {
+    display: block;
+    margin-top: 4rem;
+  }
+  .footer-logo {
+    height: 4rem;
+    margin-top: 2rem;
+    margin-left: 4rem;
+  }
+  .footer_link,
+  .footer_phone {
+    text-align: center;
+    display: block;
+  }
+  .list_one,
+  .list_two {
+    display: inline-block;
+  }
+  .popup_call-content,
+  .popup_glasses-content,
+  .popup_question-content,
+  .popup_equipment-content {
+    width: 90%;
+  }
+}
+/* 538px */
+@media (max-width: 538px) {
+  .car {
+    height: 16rem;
+  }
+  .list_one,
+  .list_two {
+    display: inline-block;
+  }
+  .what_list {
+    font-size: 1.4rem;
+  }
+  .what_btn {
+    margin-left: 5%;
+  }
+}
+/* 480px */
+@media (max-width: 480px) {
+  .main {
+    height: 45rem;
+    overflow: hidden;
+  }
+  .header {
+    height: 10rem;
+  }
+  .logo {
+    height: 3rem;
+    margin-top: -2rem;
+  }
+  .main_header {
+    font-size: 1.5rem;
+    margin-top: 3rem;
+    margin-bottom: 0;
+  }
+  .main_action {
+    font-size: 1.5rem;
+  }
+  .header_text {
+    line-height: 1.3rem;
+    font-size: 1rem;
+  }
+  .header_phone {
+    margin-left: 2rem;
+    font-size: 1.6rem;
+  }
+  .header_link {
+    margin-left: 1.7rem;
+    font-size: 1.5rem;
+  }
+  .main_btn {
+    font-size: 1rem;
+    padding: 1rem 0rem;
+    margin-top: 2rem;
+    width: 40%;
+  }
+  .main_glasses-img {
+    height: 8rem;
+    margin-top: -1rem;
+  }
+  .main_dino-img {
+    height: 20rem;
+    margin-top: -12rem;
+    margin-left: 14rem;
+  }
+  .what_header {
+    font-size: 2.5rem;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+  }
+  .what_description {
+    font-size: 1.5rem;
+  }
+  .what_set-img {
+    height: 18rem;
+    margin-left: -2rem;
+    margin-top: -1rem;
+  }
+  .what_panel {
+    margin-left: 6rem;
+  }
+  .what_list {
+    font-size: 1.4rem;
+  }
+  .what_price {
+    margin-top: -7rem;
+    font-size: 1.5rem;
+  }
+  .what_btn {
+    font-size: 1rem;
+    margin-bottom: 5rem;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 4rem;
+    margin-left: 5%;
+  }
+  .what_btn:active {
+    outline: none;
+  }
+  .tony {
+    width: 20rem;
+    margin-top: 5rem;
+    margin-left: 7rem;
+    display: block;
+    margin: 0 auto;
+    margin-top: 3rem;
+  }
+  .media-heading {
+    font-size: 1.4rem;
+  }
+  .media-wrap_movie {
+    margin-top: 0;
+  }
+  .media_text {
+    font-size: 1.3rem;
+  }
+  .car {
+    margin-top: 0;
+    display: block;
+    margin: 0 auto;
+  }
+  .world-media {
+    margin-top: -5rem;
+    margin-bottom: 5rem;
+  }
+  .order_header {
+    font-size: 1.8rem;
+    margin-top: 3rem;
+    text-align: center;
+  }
+  .bg-arrow {
+    font-size: 1rem;
+    width: 25rem;
+  }
+  .order_form_position {
+    margin-left: 0rem;
+    padding: 1.2rem;
+  }
+  .order_form {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  .order-form h3 {
+    font-size: 1.5rem;
+    margin-top: 0;
+  }
+  .order-form input {
+    padding: 1rem 1rem;
+  }
+  .order-form button {
+    font-size: 1.1rem;
+  }
+  .order-form p {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+  }
+  .media_heading_watch {
+    font-size: 0.9rem;
+  }
+  .media_heading_bag {
+    font-size: 0.9rem;
+  }
+  .media_body_bag {
+    padding-top: 0rem;
+  }
+  .order_second-row {
+    margin-bottom: 2rem;
+  }
+  .how_header {
+    font-size: 3rem;
+  }
+  .how {
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+  }
+  .how_hr {
+    margin-top: 1rem;
+  }
+  .how_media_img {
+    height: 10rem;
+  }
+  .img-glasses {
+    height: 6rem;
+    margin-top: 2rem;
+  }
+  .circle-border {
+    height: 4rem;
+    width: 4rem;
+    line-height: 3rem;
+  }
+  .how_media_header {
+    font-size: 1.2rem;
+    margin-top: 0;
+  }
+  .circle-border {
+    top: 8rem;
+  }
+  .circle_glasses {
+    top: 6rem;
+  }
+  .wrap-img {
+    min-height: 13rem;
+  }
+  .wrap_glasses {
+    min-height: 11rem;
+  }
+  .compatibility_header {
+    font-size: 2.3rem;
+    text-align-last: center;
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+  }
+  .compatibility_glasses {
+    width: 28rem;
+    margin-left: 2rem;
+    margin-top: 3rem;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 4rem;
+  }
+  .compatibility_glasses_text {
+    text-align: left;
+    font-size: 1.6rem;
+    margin-bottom: 3rem;
+  }
+  .platform_img {
+    height: 16rem;
+    margin-top: 3rem;
+    display: block;
+    margin: 0 auto;
+  }
+  .video_header {
+    font-size: 2rem;
+    margin-top: 3rem;
+  }
+  .video_img {
+    width: 5rem;
+  }
+  .video_link_text {
+    font-size: 1rem;
+    margin-bottom: 7rem;
+  }
+  .game_header {
+    font-size: 1.6rem;
+    margin-top: 3rem;
+  }
+  .game_img {
+    width: 26rem;
+    display: block;
+    margin-left: 50%;
+    -webkit-transform: translateX(-60%);
+            transform: translateX(-60%);
+  }
+  .game_text {
+    font-size: 1.2rem;
+    margin-left: 2rem;
+  }
+  .game_name {
+    margin-left: 2rem;
+  }
+  .game_btn {
+    font-size: 0.9rem;
+    width: 65%;
+  }
+  #one,
+  #three {
+    padding-right: 1.5rem;
+  }
+  #two,
+  #four {
+    padding-left: 1.5rem;
+  }
+  .media-object {
+    width: 5rem;
+  }
+  .feedback_body {
+    padding-top: 1rem;
+  }
+  .feedback_user-text {
+    font-size: 1rem;
+  }
+  .feedback_wrap {
+    padding-bottom: 2rem;
+  }
+  .feedback {
+    padding-bottom: 4rem;
+  }
+  .about {
+    padding-top: 3rem;
+  }
+  .about_header {
+    font-size: 2rem;
+  }
+  .question_header {
+    font-size: 2rem;
+  }
+  .question_link {
+    font-size: 1.2rem;
+  }
+  footer {
+    padding-top: 2rem;
+  }
+  .footer_link,
+  .footer_phone {
+    font-size: 1.5rem;
+  }
+  .fluid_footer {
+    height: 100%;
+  }
+  .footer-logo {
+    height: 3rem;
+    margin-top: 1.7rem;
+    margin-left: 1rem;
+  }
+}
+/* 391px */
+@media (min-width: 319px) and (max-width: 391px) {
+  .what_btn {
+    font-size: 0.7rem;
+  }
+}
+/* 480 */
+@media (min-width: 480px) and (max-width: 625px) {
+  .what_btn {
+    font-size: 1.3rem;
+  }
+}
+/* 359px */
+@media (max-width: 359px) {
+  .header_phone {
+    font-size: 1.3rem;
+  }
+  .header_link {
+    font-size: 1.2rem;
+  }
+  .car {
+    height: 12rem;
+  }
+  .popup_call-content,
+  .popup_glasses-content,
+  .popup_question-content,
+  .popup_equipment-content {
+    width: 90%;
+  }
+}
